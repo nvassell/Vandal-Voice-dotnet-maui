@@ -1,0 +1,1 @@
+C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui.csproj;x64

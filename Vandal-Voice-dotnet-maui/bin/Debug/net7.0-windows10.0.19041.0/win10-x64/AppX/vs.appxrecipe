@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-04-07T05:57:59.342</Modified>
+      <Modified>2023-04-07T06:06:12.175</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-04-07T05:53:00.966</Modified>
+      <Modified>2023-04-07T06:05:47.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Vandal-Voice-dotnet-maui.runtimeconfig.json">
       <PackagePath>Vandal-Voice-dotnet-maui.runtimeconfig.json</PackagePath>
-      <Modified>2023-04-07T05:57:22.243</Modified>
+      <Modified>2023-04-07T06:06:11.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Vandal-Voice-dotnet-maui.dll">
       <PackagePath>Vandal-Voice-dotnet-maui.dll</PackagePath>
-      <Modified>2023-04-07T05:57:58.508</Modified>
+      <Modified>2023-04-07T06:05:47.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Vandal-Voice-dotnet-maui.exe</PackagePath>
-      <Modified>2023-04-07T05:57:58.513</Modified>
+      <Modified>2023-04-07T06:05:47.139</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.4\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -991,7 +991,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Vandal-Voice-dotnet-maui.deps.json">
       <PackagePath>Vandal-Voice-dotnet-maui.deps.json</PackagePath>
-      <Modified>2023-04-07T05:57:59.217</Modified>
+      <Modified>2023-04-07T06:06:12.046</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1019,11 +1019,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Vandal-Voice-dotnet-maui.styles.css">
       <PackagePath>wwwroot\Vandal-Voice-dotnet-maui.styles.css</PackagePath>
-      <Modified>2023-04-07T05:52:53.920</Modified>
+      <Modified>2023-04-07T06:05:42.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\Vandal-Voice-dotnet-maui.bundle.scp.css">
       <PackagePath>wwwroot\Vandal-Voice-dotnet-maui.bundle.scp.css</PackagePath>
-      <Modified>2023-04-07T05:52:53.921</Modified>
+      <Modified>2023-04-07T06:05:42.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
@@ -1039,23 +1039,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.010</Modified>
+      <Modified>2023-04-07T06:05:46.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.022</Modified>
+      <Modified>2023-04-07T06:05:46.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.037</Modified>
+      <Modified>2023-04-07T06:05:46.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.062</Modified>
+      <Modified>2023-04-07T06:05:46.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.151</Modified>
+      <Modified>2023-04-07T06:05:46.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1063,207 +1063,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-04-07T05:52:59.177</Modified>
+      <Modified>2023-04-07T06:05:46.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.393</Modified>
+      <Modified>2023-04-07T06:05:46.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.404</Modified>
+      <Modified>2023-04-07T06:05:46.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.413</Modified>
+      <Modified>2023-04-07T06:05:46.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.427</Modified>
+      <Modified>2023-04-07T06:05:46.843</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.482</Modified>
+      <Modified>2023-04-07T06:05:46.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.238</Modified>
+      <Modified>2023-04-07T06:05:46.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.240</Modified>
+      <Modified>2023-04-07T06:05:46.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.256</Modified>
+      <Modified>2023-04-07T06:05:46.692</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.245</Modified>
+      <Modified>2023-04-07T06:05:46.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.248</Modified>
+      <Modified>2023-04-07T06:05:46.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.217</Modified>
+      <Modified>2023-04-07T06:05:46.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.219</Modified>
+      <Modified>2023-04-07T06:05:46.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.233</Modified>
+      <Modified>2023-04-07T06:05:46.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.221</Modified>
+      <Modified>2023-04-07T06:05:46.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.226</Modified>
+      <Modified>2023-04-07T06:05:46.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.187</Modified>
+      <Modified>2023-04-07T06:05:46.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.190</Modified>
+      <Modified>2023-04-07T06:05:46.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.193</Modified>
+      <Modified>2023-04-07T06:05:46.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.195</Modified>
+      <Modified>2023-04-07T06:05:46.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.199</Modified>
+      <Modified>2023-04-07T06:05:46.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.201</Modified>
+      <Modified>2023-04-07T06:05:46.651</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.203</Modified>
+      <Modified>2023-04-07T06:05:46.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.214</Modified>
+      <Modified>2023-04-07T06:05:46.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.206</Modified>
+      <Modified>2023-04-07T06:05:46.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.208</Modified>
+      <Modified>2023-04-07T06:05:46.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.293</Modified>
+      <Modified>2023-04-07T06:05:46.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.298</Modified>
+      <Modified>2023-04-07T06:05:46.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.303</Modified>
+      <Modified>2023-04-07T06:05:46.736</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.311</Modified>
+      <Modified>2023-04-07T06:05:46.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.325</Modified>
+      <Modified>2023-04-07T06:05:46.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.274</Modified>
+      <Modified>2023-04-07T06:05:46.710</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.277</Modified>
+      <Modified>2023-04-07T06:05:46.712</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.280</Modified>
+      <Modified>2023-04-07T06:05:46.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.283</Modified>
+      <Modified>2023-04-07T06:05:46.718</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.290</Modified>
+      <Modified>2023-04-07T06:05:46.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.259</Modified>
+      <Modified>2023-04-07T06:05:46.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.262</Modified>
+      <Modified>2023-04-07T06:05:46.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.265</Modified>
+      <Modified>2023-04-07T06:05:46.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.268</Modified>
+      <Modified>2023-04-07T06:05:46.703</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.272</Modified>
+      <Modified>2023-04-07T06:05:46.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.330</Modified>
+      <Modified>2023-04-07T06:05:46.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.335</Modified>
+      <Modified>2023-04-07T06:05:46.766</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.342</Modified>
+      <Modified>2023-04-07T06:05:46.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.352</Modified>
+      <Modified>2023-04-07T06:05:46.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.385</Modified>
+      <Modified>2023-04-07T06:05:46.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.213</Modified>
+      <Modified>2023-04-07T06:05:46.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.221</Modified>
+      <Modified>2023-04-07T06:05:46.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.236</Modified>
+      <Modified>2023-04-07T06:05:46.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.256</Modified>
+      <Modified>2023-04-07T06:05:46.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-04-07T05:52:59.298</Modified>
+      <Modified>2023-04-07T06:05:46.698</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\natev\source\builds\Vandal-Voice-dotnet-maui\Vandal-Voice-dotnet-maui\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>

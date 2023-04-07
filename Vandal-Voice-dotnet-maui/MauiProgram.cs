@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
 using MudBlazor.Services;
-using Vandal_Voice_dotnet_maui.Data;
 
 namespace Vandal_Voice_dotnet_maui;
 
@@ -23,7 +22,6 @@ public static class MauiProgram
 		builder.Logging.AddDebug();
 #endif
 
-		builder.Services.AddSingleton<WeatherForecastService>();
         builder.Services.AddMudServices();
 
         return builder.Build();
